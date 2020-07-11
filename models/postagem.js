@@ -31,4 +31,4 @@ const Postagem = new Schema({
     }
 })
 
-module.exports = mongoose.model("postagens", Postagem)
+module.exports = mongoose.model("postagem", Postagem)
