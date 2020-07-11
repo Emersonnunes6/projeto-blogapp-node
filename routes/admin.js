@@ -2,9 +2,9 @@ const express = require("express")
 const router = express.Router()
 const mongoose = require("mongoose")
 require('../models/categoria')
-const categoria = require("/Users/infor/Desktop/blogapp/models/categoria")
+const categoria = require("../models/categoria")
 require('../models/postagem')
-const postagem = require("/Users/infor/Desktop/blogapp/models/postagem")
+const postagem = require("../models/postagem")
 const {eAdmin} = require("../helpers/eadmin")
 
 router.get('/', eAdmin, function(req,res){
