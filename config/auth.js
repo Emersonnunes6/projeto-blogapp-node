@@ -5,7 +5,7 @@ const passport = require("passport")
 
 //Model de usuário
 require("../models/usuario")
-const Usuario = mongoose.model("usuario", Usuario)
+const Usuario = mongoose.model("usuario")
 
 module.exports = function(passport){
 
