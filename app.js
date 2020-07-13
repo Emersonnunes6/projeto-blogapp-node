@@ -9,7 +9,7 @@ const mongoose = require('mongoose')
 const session = require("express-session")
 const flash = require("connect-flash")
 require('./models/postagem')
-const Postagem = mongoose.model("postagem")
+const Postagem = mongoose.model("postagens")
 const usuarios = require("./routes/usuario")
 const passport = require("passport")
 require("./config/auth")(passport)
@@ -79,7 +79,7 @@ const db = require("./config/db")
     app.use("/usuarios", usuarios)
     
 //Outros
-const PORT = process.env.PORT ||8081
+const PORT = process.env.PORT || 8081
 app.listen(PORT, function(){
-    console.log("Servidor rodando! ")
+    console.log("Servidor rodando!")
 })
