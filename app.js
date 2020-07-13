@@ -11,8 +11,8 @@ const flash = require("connect-flash")
 require('./models/postagem')
 const Postagem = mongoose.model("postagem")
 const usuarios = require("./routes/usuario")
-require("./config/auth")(passport)
 const passport = require("passport")
+require("./config/auth")(passport)
 
 const db = require("./config/db")
 //Configurações
