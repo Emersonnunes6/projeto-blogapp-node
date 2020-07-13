@@ -14,7 +14,6 @@ const usuarios = require("./routes/usuario")
 const passport = require("passport")
 require("./config/auth")(passport)
 const db = require("./config/db")
-
 //Configurações
     //Sessão
         app.use(session({
