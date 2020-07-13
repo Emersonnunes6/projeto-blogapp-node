@@ -121,7 +121,7 @@ categoria.findOne({_id: req.body.id}).then(function(categoria){
     router.get("/postagens", eAdmin, function(req, res){
 
         postagem.find().lean().populate("categoria").sort({data: "desc"}).then(function(postagens){
-            res.render("admin/postagens", {postagens: postagens})
+            res.render("admin/postagens", {postagem: postagem})
         }).catch(function(err){
             req.flash("error_msg", "Houve um erro ao listar as postagens")
             res.redirect("/admin/postagens")
