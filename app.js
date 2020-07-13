@@ -40,7 +40,7 @@ const db = require("./config/db")
         app.set('view engine', 'handlebars');
     //Mongoose
     mongoose.Promise = global.Promise;
-        mongoose.connect(db.mongoURI, {useNewUrlParser: true, useUnifiedTopology: true}).then(function(){
+        mongoose.connect(process.env.MONGODB_URL, {useNewUrlParser: true, useUnifiedTopology: true}).then(function(){
             console.log("Conectado ao mongo")
         }).catch(function(Error){
             console.log("Erro ao se conectar: "+ Error)
