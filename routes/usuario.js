@@ -47,8 +47,7 @@ router.post("/registro", function(req, res){
                 const novoUsuario = new Usuario({
                     nome: req.body.nome,
                     email: req.body.email,
-                    senha: req.body.senha,
-                    eAdmin: 1  
+                    senha: req.body.senha  
                 })
 
 
