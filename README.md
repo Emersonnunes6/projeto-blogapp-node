@@ -8,7 +8,7 @@ O **Blog do Node** é um projeto desenvolvido no curso de node.js do Guia do Pro
 -Express
 -MongoDB
 
-##Como instalar o projeto
+## Como instalar o projeto
 
 //Clonar o repositorio
 $ git clone https://github.com/Emersonnunes6/projeto-blogapp-node
