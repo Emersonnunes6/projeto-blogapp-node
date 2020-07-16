@@ -1,7 +1,6 @@
 # Projeto Blogapp 
-<h3>
-<a href:"https://mysterious-crag-14075.herokuapp.com/">Acessar a demonstração<a>
-<h3>
+Acessar a demonstração: https://mysterious-crag-14075.herokuapp.com
+
 ## Indice
 
 - [Sobre](#-sobre)
@@ -12,7 +11,8 @@
 
 ## Sobre
 O **Blog do Node** é um projeto desenvolvido no curso de node.js do Guia do Progamador, colocando em prática o conteúdo mostrado durante o curso.
-[Link do curso](#-https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+Link do curso: https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B
+
 ---
 
 ## Tecnologias utilizadas
@@ -25,7 +25,7 @@ O **Blog do Node** é um projeto desenvolvido no curso de node.js do Guia do Pro
 
 ## Como instalar o projeto
 
----bash 
+'''bash 
 
 //Clonar o repositorio
 $ git clone https://github.com/Emersonnunes6/projeto-blogapp-node
