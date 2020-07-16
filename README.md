@@ -4,9 +4,9 @@
 
 ## Indice
 
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como instalar](#-como-instalar-o-projeto)
+- [Sobre](sobre)
+- [Tecnologias utilizadas](tecnologias-utilizadas)
+- [Como instalar](como-instalar-o-projeto)
 
 ---
 
