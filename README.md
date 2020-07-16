@@ -1,6 +1,6 @@
 # Projeto Blogapp 
 
-Acessar a demonstração: https://mysterious-crag-14075.herokuapp.com
+- Acessar a demonstração: https://mysterious-crag-14075.herokuapp.com
 
 ## Indice
 
@@ -26,16 +26,16 @@ O **Blog do Node** é um projeto desenvolvido no curso de node.js do Guia do Pro
 
 ## Como instalar o projeto
 
-'''bash 
+```bash 
 
 //Clonar o repositorio
 $ git clone https://github.com/Emersonnunes6/projeto-blogapp-node
 
 //Entrar no repositorio
-$ cd blogapp
+- $ cd blogapp
 
 //Instalar as dependências
-$ npm install
+- $ npm install
 
 //Iniciar o projeto
-$ npm start
+- $ npm start
