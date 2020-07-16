@@ -32,10 +32,10 @@ O **Blog do Node** é um projeto desenvolvido no curso de node.js do Guia do Pro
 $ git clone https://github.com/Emersonnunes6/projeto-blogapp-node
 
 //Entrar no repositorio
-- $ cd blogapp
+$ cd blogapp
 
 //Instalar as dependências
-- $ npm install
+$ npm install
 
 //Iniciar o projeto
-- $ npm start
+$ npm start
