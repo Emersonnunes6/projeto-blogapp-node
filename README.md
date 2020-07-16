@@ -1,4 +1,5 @@
 # Projeto Blogapp 
+
 Acessar a demonstração: https://mysterious-crag-14075.herokuapp.com
 
 ## Indice
@@ -11,7 +12,7 @@ Acessar a demonstração: https://mysterious-crag-14075.herokuapp.com
 
 ## Sobre
 O **Blog do Node** é um projeto desenvolvido no curso de node.js do Guia do Progamador, colocando em prática o conteúdo mostrado durante o curso.
-Link do curso: https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B
+- Link do curso: https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B
 
 ---
 
