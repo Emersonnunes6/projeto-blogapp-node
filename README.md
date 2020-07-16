@@ -2,12 +2,6 @@
 
 - Acessar a demonstração: https://mysterious-crag-14075.herokuapp.com
 
-## Indice
-
-- [Sobre](sobre)
-- [Tecnologias utilizadas](tecnologias-utilizadas)
-- [Como instalar](como-instalar-o-projeto)
-
 ---
 
 ## Sobre
